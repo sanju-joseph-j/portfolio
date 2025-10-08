@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sanju-joseph-j/portfolio.git/static/css/main.919dded8.css",
+    "main.js": "/sanju-joseph-j/portfolio.git/static/js/main.95aa35d0.js",
+    "static/media/profile.jpg": "/sanju-joseph-j/portfolio.git/static/media/profile.7b26007b41aad89371ce.jpg",
+    "static/media/p1.jpeg": "/sanju-joseph-j/portfolio.git/static/media/p1.802d477cc719986d8b8d.jpeg",
+    "static/media/resume.pdf": "/sanju-joseph-j/portfolio.git/static/media/resume.890a57439964acb4c951.pdf",
+    "static/media/p3.jpeg": "/sanju-joseph-j/portfolio.git/static/media/p3.0e46c3c1f70a7deec4a3.jpeg",
+    "static/media/p2.jpeg": "/sanju-joseph-j/portfolio.git/static/media/p2.28a16e0cbd3bc9e9a5ff.jpeg",
+    "static/media/up.jpeg": "/sanju-joseph-j/portfolio.git/static/media/up.bea779ecbfb21e13838c.jpeg",
+    "index.html": "/sanju-joseph-j/portfolio.git/index.html",
+    "main.919dded8.css.map": "/sanju-joseph-j/portfolio.git/static/css/main.919dded8.css.map",
+    "main.95aa35d0.js.map": "/sanju-joseph-j/portfolio.git/static/js/main.95aa35d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.919dded8.css",
+    "static/js/main.95aa35d0.js"
+  ]
+}
