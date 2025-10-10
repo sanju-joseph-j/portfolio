@@ -50,6 +50,7 @@
   transform: scale(0.8);
   width: 400px;
   z-index: 0;
+  border: 0.1px solid black;
 }
 
 .projects__card img {
@@ -58,6 +59,7 @@
   object-fit: cover;
   border-radius: 0.5rem;
   margin-bottom: 1rem;
+  border: 1.5px solid black;
 }
 
 .projects__card h3 {
@@ -177,6 +179,10 @@
   }
     .projects__btn {
     display: none;
+  }
+
+  .projects__section {
+    margin-bottom: -2.5rem;
   }
 }
 
