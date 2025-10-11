@@ -8,7 +8,7 @@ import UP from "../../assets/up.jpeg";
 const projects = [
   {
     title: "Dream Home Finder",
-    desc: "To find your dream home at a good price",
+    desc: "To find your dream home at very good price",
     img: P1,
     link: "https://your-ecommerce-link.com"
   },
@@ -20,13 +20,13 @@ const projects = [
   },
   {
     title: "Portfolio",
-    desc: "My personal Portfolio website",
+    desc: "My personal Portfolio website with a clean B&W professional UI",
     img: P3,
     link: "https://your-chatapp-link.com"
   },
   {
     title: "Upcoming Project",
-    desc: "Stay tuned to see my next project",
+    desc: "Stay tuned to see my next project, Date will be announced soon",
     img: UP,
     link: "https://your-weather-link.com"
   },
