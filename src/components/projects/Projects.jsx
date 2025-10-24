@@ -10,25 +10,25 @@ const projects = [
     title: "Dream Home Finder",
     desc: "To find your dream home at very good price",
     img: P1,
-    link: "https://your-ecommerce-link.com"
+    link: "https://sanju-joseph-j.github.io/dream_home/"
   },
   {
     title: "AI - Smart Survillance System",
     desc: "To survillance your Home & Office effortlessly",
     img: P2,
-    link: "https://your-portfolio-link.com"
+    link: "https://smart-surveillance-59mi.onrender.com"
   },
   {
     title: "Portfolio",
     desc: "My personal Portfolio website with a clean B&W professional UI",
     img: P3,
-    link: "https://your-chatapp-link.com"
+    link: "https://sanju-joseph-j.github.io/portfolio/"
   },
   {
     title: "Upcoming Project",
     desc: "Stay tuned to see my next project, Date will be announced soon",
     img: UP,
-    link: "https://your-weather-link.com"
+    link: "Null"
   },
 ];
 
