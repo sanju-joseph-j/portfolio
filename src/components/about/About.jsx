@@ -1,6 +1,6 @@
 import React from 'react';
 import "./About.css";
-import Resume from "../../assets/resume.pdf";
+import Resume from "../../assets/Sanju_Joseph_FS_Dev_Resume.pdf";
 
 const About = () => {
     return(
