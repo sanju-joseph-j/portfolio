@@ -73,13 +73,13 @@ const Qualification = () => {
             <h3>Education</h3>
             <div className="timeline">
               <div className="timeline__item">
-                B.E. CSE @LMEC Madurai [2021-2025] - 76%
+                B.E. in Computer Science @LMEC, Madurai [2021-2025] - 76.6%
               </div>
               <div className="timeline__item">
-                HSC @St. Britto HSS Madurai [2020-2021] - 75%
+                HSC in Computer Science @St. Britto HSS, Madurai [2020-2021] - Cum. : 65.40%
               </div>
               <div className="timeline__item">
-                SSLC - @St. Britto HSS Madurai [2018-2019] - 68%
+                SSLC - @St. Britto HSS, Madurai [2018-2019] - 68%
               </div>
             </div>
           </div>
@@ -90,7 +90,7 @@ const Qualification = () => {
             <h3>Experience</h3>
             <div className="timeline">
               <div className="timeline__item">
-                Full Stack Developer Intern @Marcello Tech Trichy [Jul 2024-Sep2024] Remote
+                Full Stack Developer Intern @Marcello Tech, Trichy [7/2024-9/2024]
               </div>
             </div>
           </div>
@@ -100,9 +100,15 @@ const Qualification = () => {
           <div className="qualification__timeline fade">
             <h3>Certificates</h3>
             <div className="timeline">
-              <div className="timeline__item">Certificate of internship completion of Full stack development by Marcello tech</div>
-              <div className="timeline__item">Certificate of participation in React Bootcamp provided by Scaler</div>
-              <div className="timeline__item">Certificate of achievement provided by Edunet foundation</div>
+              <div className="timeline__item">Full stack development by Marcello tech 
+                <a class="link" href="https://drive.google.com/file/d/1FhwpHk9y2X28mwFaQPcuQq20DLr2PbDy/view" target="blank"> - [LINK]</a>
+              </div>
+              <div className="timeline__item">Node.js Bootcamp by LetsUpgrade 
+                 <a class="link" href="https://drive.google.com/file/d/1lVE5puetAueF3aMnRUvmtrVK1wgR26p9/view?usp=sharing" target="blank"> - [LINK]</a>
+              </div>
+              <div className="timeline__item">React Bootcamp by Scaler 
+                 <a class="link" href="https://drive.google.com/file/d/1LVZOGzqjLCNHdEJosdBM2AeCuDmV4yVC/view?usp=sharing" target="blank"> - [LINK]</a>
+              </div>
             </div>
           </div>
         )}

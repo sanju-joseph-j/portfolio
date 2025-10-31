@@ -242,11 +242,6 @@
 
 
 
-
-
-
-
-
 /* Timeline Container */
 .qualification__timeline {
   margin: 1rem 0;
@@ -310,3 +305,10 @@
 }
 
 
+.link {
+    color: var(--text-color);
+}
+    
+.link:hover {
+    color: var(--title-color);
+}
