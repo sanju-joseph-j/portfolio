@@ -3,6 +3,7 @@ import "./Projects.css";
 import P1 from "../../assets/p1.jpeg";
 import P2 from "../../assets/p2.jpeg";
 import P3 from "../../assets/p3.jpeg";
+import p4 from "../../assets/p4.png";
 import UP from "../../assets/up.jpeg";
 
 const projects = [
@@ -25,10 +26,10 @@ const projects = [
     link: "https://sanju-joseph-j.github.io/portfolio/"
   },
   {
-    title: "Upcoming Project",
-    desc: "Stay tuned to see my next project, Date will be announced soon",
-    img: UP,
-    link: "Null"
+    title: "MGNREGA Tamil Nadu Dashboard",
+    desc: "MGNREGA Tamil Nadu Dashboard for monitoring and analysis the Data",
+    img: p4,
+    link: "https://mgnrega-tamilnadudashboard-e0e7nqnca-sanju-joseph-js-projects.vercel.app"
   },
 ];
 
